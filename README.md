@@ -1,6 +1,9 @@
 # Beyond Tweet
 HackPSU'19
 
+![Architecture](final.png)
+
+
 ## Inspiration
 Twitter data is one of the most openly available data-set for analysis. But in the current scenario of analysis, twitter data and hashtag analytics arent enough to give the bigger picture of how a particular topic effects a given political biome. We hence wanted to grow this said search to include a more representative picture by including multifaceted information, through statistics, and hence showing a greater solution to any given problem.
 
